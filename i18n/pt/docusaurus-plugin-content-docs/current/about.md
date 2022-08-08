@@ -1,21 +1,22 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: Sobre Nós
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+Description: Uma lista de various tipos de recursos para Discord para qualquer tipo de ultalizador, até para utilizadores mais avançados.
 ---
 
-# About
+# Sobre Nós
 
-## Welcome to Discord Resources Wiki
+## Bem-vindo ao Discord Resources Wiki!
 
-## So what is this thing?
+## Então, o que e isto?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+O fundador deste projeto, @755792681313108018, tinha estado à preocupar de uma boa e útil lista de recursos para Discord que iria conter topicos de conhecimentos básicos à utilidades avançadas; uma lista que todos os utilizadores de Discord, desde principiantes a proficientes, considerariam útil. Mas tal lista não pôdia ser encontrada.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+E, assim, uma ideia surgiu!
+Com a ajuda de alguns amigos que conhecem Discord bem, jontos a **Discord Resources Wiki** for criado. O projeto demorava meses de trabalho de pesquisa, organização e design para se tornar no que é hoje, e esperamos que o considere útil.
+
 
 ## What am I seeing here?
 
