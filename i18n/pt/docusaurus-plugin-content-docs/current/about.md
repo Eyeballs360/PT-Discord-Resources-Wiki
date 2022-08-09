@@ -18,24 +18,28 @@ E, assim, uma ideia surgiu!
 Com a ajuda de alguns amigos que conhecem Discord bem, jontos a **Discord Resources Wiki** for criado. O projeto demorava meses de trabalho de pesquisa, organização e design para se tornar no que é hoje, e esperamos que o considere útil.
 
 
-## What am I seeing here?
+## O que vejo aqui?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+Nós juntamos recursos semelhantes em catagorias e tópicos comuns, acessíveis à esquerda no computador ou com o ícone do  menu no telemóvel. Cada recurso tem um descrição sobre o que é, seguida de um link para onde pode ser encontrado e tambem créditos para aos autores. 
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Este site será continuamente e frequentemente actualizado quando encontramos mais recursos que vai ajudar utilizadores da Discord em toda a plataforma!
 
-## Disclaimer
 
-**We are not affiliated with Discord in any way.**
+## Aviso
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+**Nós não somos afiliados à Discord.**
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+Este site é uma agregação da maioria dos recursos que poderíamos econtrar e não é uma lista totalmente completa por todos os meios. Nós não reividicamos os direitos ou créditos sobre nenhum dos recursos aqui listados, a menos que explicitamente mencionado de outra forma. Todos os créditos aos autores dos recursos estão listados na secção "créditos" de cada link.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Fazemos o nosso melhor para creditar os utilizadores empre que possível, no entanto, reconhecemos que alguns recursos podem ter créditos incorrectos ou incompletos. Por favor, entre em contacto com nos, se entontra algum desses recursos para que podemos rectificar a problema.
 
-## Personal Note
+Todas a nossa branding e bens ão nossos e são criados por @192060404501839872. É proibido utilizar a nossa branding para  uso pessoal ou projectos sem a nossa autorização explícita.
+
+
+## Nota Pessoal
 
 Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+Apesar de ser opcional, gostaríamos de ser creditados se fossemos de ajuda para si. Tentamos o nosso melhor para pesquisar ligações, organizar recursos e curá-los no website, e o que vocês vêem é um resultado de meses do nosso esforço.
+
+**Ajude os seus amigos, mútuos, membros da comunidade e outros, partilhando este projecto com eles também!**
