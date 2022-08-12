@@ -11,7 +11,7 @@ description: Offisielle lenker fra Discord
 __Lenke:__ [Discord Nettside](https://dis.gd/)
 
 ## **Hvordan å Rapportere**
-> __Beskrivelse:__ En veiledning for hvordan du rapporterer problemer på riktig måte til Discords “Trust & Safety”-teamet.   <br/>
+> __Beskrivelse:__ En veiledning for hvordan du kan rapporterer problemer på riktig måte til Discords “Trust & Safety”-team.   <br/>
 __Lenker:__  [Hvordan å Rapportere](https://dis.gd/howtoreport) | [DMA Artikkel](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
 ## **Hvordan å få Bruker-ID** 
