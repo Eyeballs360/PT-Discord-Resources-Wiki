@@ -1,81 +1,81 @@
 ---
 title: Official Discord Links
 sidebar_position: 4
-description: Official links from discord.
+description: Offisielle lenker fra Discord
 ---
 
-# Official Discord Links
+# Offisielle Discord-lenker
 
-## **Discord Website**
-> __Description:__ Imagine a place… where links were not so long.   <br/>
-__Link:__ [Discord Website](https://dis.gd/)
+## **Discord Nettside**
+> __Beskrivelse:__ Tenk deg om et sted ... hvor lenker var ikke så lange.   <br/>
+__Lenke:__ [Discord Nettside](https://dis.gd/)
 
-## **How to Report**
-> __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
-__Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+## **Hvordan å Rapportere**
+> __Beskrivelse:__ En veiledning for hvordan du rapporterer problemer på riktig måte til Discords “Trust & Safety”-teamet.   <br/>
+__Lenker:__  [Hvordan å Rapportere](https://dis.gd/howtoreport) | [DMA Artikkel](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## **How to get user IDs** 
-> __Description:__ A guide on how to find IDs.   <br/>
-__Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
+## **Hvordan å få Bruker-ID** 
+> __Beskrivelse:__ En veiledning for hvordan du finner IDer.   <br/>
+__Lenke:__  [Hvordan å få bruker/server/meldings-IDer](https://dis.gd/findmyid)
 
-## **Discord Bugs**
-> __Description:__  The official tool to look up reported and approved bugs.   <br/>
-__Link:__ [Discord Bugs](https://bugs.discord.com/)
+## **Discord Plattform-feil**
+> __Beskrivelse:__  Det offisielle verktøyet for å finne rapporterte og godkjente feil med plattformen.   <br/>
+__Lenke:__ [Discord Plattform-feil](https://bugs.discord.com/)
 
-## **Discord Testers Bug Tool**
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
-__Credit:__ @53905483156684800
+## **Discord Testers Feilverktøyl**
+> __Beskrivelse:__ Det offisielle verktøyet for å generere tekst for DBugs !submit kommando. Skjemaet guider deg trinn for trinn gjennom hvert trinn for å generere en kommando for deg i riktig format.   <br/>
+__Lenke:__ [Discord Testers feilverktøyl](https://dis.gd/bug-tool)
+__Kreditt:__ @53905483156684800
 
-## **Discord Testing Clients**
-> __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
-__Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+## **Discord Testing av Klienter**
+> __Beskrivelse:__ En veiledning for nedlasting og bruk av Discord-testklienter for alle plattformer.   <br/>
+__Lenke:__ [Testing av Klienter](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
 ## **Discord Moderator Academy** 
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
+> __Beskrivelse:__ Discords offisielle ressurser for moderatorer, skrevet av moderatorer.   <br/>
+__Lenke:__ [Discord Moderator Academy](https://dis.gd/moderation)
 
-## **Discord Libraries Servers List**
-> __Description:__ A Reddit wiki page that lists all of the Discord API libraries.   <br/>
-__Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+## **Discord Bibliotek Serverliste**
+> __Beskrivelse:__ En Reddit wiki-side som lister alle Discord API-Biblioteker.   <br/>
+__Lenke:__ [Discord Bibliotek Serverliste](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## **Discord Open Source**
-> __Description:__ This is the source list of OSS communities that use and live on Discord.   <br/>
-__Link(s):__
-[Discord Open Source](https://discord.com/open-source)   <br/>
-[Discord Open Source Github](https://github.com/discord/discord-open-source)
+## **Discord Åpent Kildekode**
+> __Beskrivelse:__ Dette er kildelisten over OSS-fellesskap som bruker og lever på Discord.   <br/>
+__Lenker:__
+[Discord Åpen Kildekode](https://discord.com/open-source)   <br/>
+[Discord Åpen Kildekode Github](https://github.com/discord/discord-open-source)
 
 ## **Discord Branding**  
-> __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+> __Beskrivelse:__ Discords merkevarebygging og retningslinjer.   <br/>
+__Lenke:__ [Discord Branding](https://discord.com/branding)
 
 ## **Discord Nitro**
-> __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
-__Link:__ [Discord Nitro](https://dis.gd/nitro)
+> __Beskrivelse:__  Informasjon om Nitro- og Nitro Classic-abonnementer.   <br/>
+__Lenke:__ [Discord Nitro](https://dis.gd/nitro)
 
-## **Discord Status Page**
-> __Description:__ Provides information on the current status of the Discord services.   <br/>
-__Link:__ [Status Page](https://dis.gd/status)
+## **Discord-statusside**
+> __Beskrivelse:__ Gir informasjon om gjeldende status for Discord-tjenestene.   <br/>
+__Lenke:__ [Statusside](https://dis.gd/status)
 
-## **Discord Developer Portal**
-> __Description:__ The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
-__Link:__ [Discord Developer Portal](https://discord.com/developers/)
+## **Discord Utviklerportal**
+> __Beskrivelse:__ Hovednettstedet for utviklere for å administrere appene, teamene, OAuth2-omfangene og mer.    <br/>
+__Lenke:__ [Discord Utviklerportal](https://discord.com/developers/)
 
-## **Discord Developer Docs**
-> __Description:__ The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
-__Link:__ [Discord Developer Docs](https://discord.dev/)
+## **Discord Utviklerdokumentasjon**
+> __Beskrivelse:__ Dokumentene som beskriver hvordan alle typer interaksjoner håndteres, og en ressurs for botutviklere.   <br/>
+__Lenke:__ [Discord Utviklerdokumentasjon](https://discord.dev/)
 
-## **Discord Security Bug Bounties**
-> __Description:__ The place to submit security vulnerabilities within Discord.   <br/>
-__Link:__ [Discord Security Bug Bounties](https://discord.com/security)
+## **Discord Sikkerhetsfeilbelønninger**
+> __Beskrivelse:__ Stedet for å sende inn sikkerhetssårbarheter i Discord.   <br/>
+__Lenke:__ [Discord Security Bug Bounties](https://discord.com/security)
 
-## **Latest Transparency Report** 
-> __Description:__ The most recent update on the security team’s actions and terminations.   <br/>
-__Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+## **Siste Åpenhetsrapport** 
+> __Beskrivelse:__ Den siste oppdateringen om sikkerhetsteamets handlinger og oppsigelser.   <br/>
+__Lenke:__ [Siste Åpenhetsrapport](https://discord.com/blog/discord-transparency-report-h1-2021)
 
-## **Discord’s (new) Media Kit**
-> __Description:__ Discord’s official assets.   <br/>
-__Link:__ <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
+## **Discords (nye) Mediesett**
+> __Beskrivelse:__ Discord’s official assets.   <br/>
+__Lenke:__ <br/>
+[Discords (nye) Medieset - Direkte Nedlasting](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[Discord Branding Side](https://discord.com/branding)
 
