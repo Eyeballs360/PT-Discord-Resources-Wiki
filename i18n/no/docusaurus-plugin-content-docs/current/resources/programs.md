@@ -1,29 +1,29 @@
 ---
 title: Programs
 sidebar_position: 7
-description: Discord programs like Moderation, Partner, HSE and Verification.
+description: Discord-programmer som Moderasjon, Partner, HMS og Verifikasjon.
 ---
 
-# Programs
+# Programmer
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link(s):__ [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
-[Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
-[Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
+### **Discord Moderator Økosystemet** 
+> __Beskrivelse:__ Offisielt økosystem for moderatorer for å diskutere moderasjon.   <br/>
+__Lenker:__ [Discord Moderator Økosystemet](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
+[Discord Moderator Økosystemhåndbok](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
+[Discord Moderator Økosystem Jukseark](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
 
-### **Partner Program**
-> __Description:__ As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
-__Link:__ [Discord Partner Program](https://dis.gd/partners)
+### **Partnerprogramet**
+> __Beskrivelse:__ Som rollemodeller for hele Discord, tilbyr partnere servere fellesskap som både våre nye og veteranbrukere kan bruke som inspirasjon til å lage sine egne fellesskap.   <br/>
+__Lenke:__ [Discord Partnerprogramet](https://dis.gd/partners)
 
 ### **Hypesquad Events**
-> __Description:__ The place to find information and apply for the HypeSquad Events program.   <br/>
-__Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
+> __Beskrivelse:__ Stedet for å finne informasjon og søke på HypeSquad Events-programmet.   <br/>
+__Lenke:__ [HypeSquad Events](https://dis.gd/hypesquad)
 
-### **Verification Program**
-> __Description:__ The place to find information and apply for the Verification program.   <br/>
-__Link:__ [Verification Program](https://dis.gd/verification)
+### **Verifikasjon Programmet**
+> __Beskrivelse:__ Stedet for å finne informasjon og søke om verifikasjons programmet.   <br/>
+__Lenke:__ [Verifikasjon Programmet](https://dis.gd/verification)
 
-### **Student Hubs**
-> __Description:__ A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
-__Link:__ [Student Hubs](https://dis.gd/studenthubs)
+### **Student Sentrene**
+> __Beskrivelse:__ Et sted som gjør det enkelt å møte klassekamerater fra skolen din, oppdage fellesskapene deres på Discord og dele dine egne servere slik at klassekamerater kan bli med.   <br/>
+__Lenker:__ [Student Sentrene](https://dis.gd/studenthubs)
