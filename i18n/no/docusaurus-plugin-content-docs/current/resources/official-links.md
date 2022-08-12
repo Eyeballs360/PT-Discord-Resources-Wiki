@@ -74,7 +74,7 @@ __Lenke:__ [Discord Security Bug Bounties](https://discord.com/security)
 __Lenke:__ [Siste Åpenhetsrapport](https://discord.com/blog/discord-transparency-report-h1-2021)
 
 ## **Discords (nye) Mediesett**
-> __Beskrivelse:__ Discord’s official assets.   <br/>
+> __Beskrivelse:__ Discords offisielle eiendeler.   <br/>
 __Lenke:__ <br/>
 [Discords (nye) Medieset - Direkte Nedlasting](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
 [Discord Branding Side](https://discord.com/branding)
