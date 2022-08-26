@@ -1,54 +1,55 @@
 ---
-title: Contribution
+title: Contribuição
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Uma lista com toneladas de recursos úteis de Discord, para todos os tipos de usuários, de iniciantes a usuários avançados.
 ---
 
-# Contribution
+# Contribuição
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Encontrou um erro ou um erro de digitação? Tem um bom recurso que se encaixa nesta lista? Torne-se um colaborador e esteja na gloriosa lista de colaboradores acima! <br/>
+Para contribuir, você é mais do que bem-vindo ao PR deste wiki ou envie um DM para @755792681313108018 para editar o wiki e você mesmo na lista.
+Você também pode participar do [Servidor Oficial do Projeto](https://discord.gg/yxbqz9pNxS) para contribuir lá.
 
-## Contributors
+## Contribuidores(ras)
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+Este projeto levou mais de um par de mãos, e estamos orgulhosos de ter essa equipe de colaboradores que nos ajudaram com este projeto!<br/>
+Queremos agradecer:<br/>
+@856780995629154305 - Mantenedor do site <br/>
+@347727875266576395 - Arquiteto Wiki <br/>
+@391660873409888277 - Corretor de wiki <br/>
+@363481883369013259 - Gerenciador GitHub / Organizador de Documentação<br/>
+@337654195526303746 - Pesquisador de Recursos / Mantenedor<br/>
+@337104786593939456 - Organizador de Documentação<br/>
+@485676072176713729 - Pesquisador de Recursos / Mantenedor<br/>
+@762387276595724308 - Pesquisador de Recursos / Mantenedor<br/>
+@378537973215657984 - Gerenciador de Comunidade e Conteúdo / Organizador de Documentação<br/>
+@287711497118023692 - Pesquisador de Recursos / Organizador de Documentação<br/>
+@192060404501839872 - Desenhista<br/>
+@386861188891279362 - Arquiteto de Sites / Organizador de Documentação<br/>
+@102102717165506560 - Consultoria de Crescimento / Curador de Recursos<br/>
+@755792681313108018 - *Eu tive essa ideia e fiz todas as opções acima*
+@441033985238499328 - Tradutor Português Brasileiro
 
-## How to test changes locally
+## Como testar alterações localmente
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
+Tem um ótimo PR em andamento, mas não sabe como é? Não é um problema!<br/>
+Se você estiver em um fork do repositório, é tão fácil quanto executar esses 2 comandos:
 
 ```
 npm install
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Isso baixa todos os repositórios necessários para nosso sistema de documentação (Docusaurus). Você só precisa executar isso uma vez.
 
 ```
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Este comando inicia o servidor web (``localhost:3000`` por padrão) e deve ser executado toda vez que você quiser iniciar a edição.
+No entanto, ele não precisa ser executado para cada alteração que você fizer, pois o Docusaurus reiniciará automaticamente o servidor se detectar alterações!
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Assim que tiver uma instância do site em execução localmente, você estará pronto para começar a contribuir!
+Notas: Por favor, use ``<br/>`` para caracteres de quebra de linha<br/>
+Requer a versão do Node.js >= ``12.13.0``
+Se você estiver usando o Yarn: Versão do Yarn >= ``1.5``
