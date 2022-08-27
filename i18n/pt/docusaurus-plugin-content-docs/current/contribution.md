@@ -28,7 +28,7 @@ Queremos agradecer:<br/>
 @192060404501839872 - Desenhista<br/>
 @386861188891279362 - Arquiteto de Sites / Organizador de Documentação<br/>
 @102102717165506560 - Consultoria de Crescimento / Curador de Recursos<br/>
-@755792681313108018 - *Eu tive essa ideia e fiz todas as opções acima*
+@755792681313108018 - *Eu tive essa ideia e fiz todas as opções acima*<br/>
 @441033985238499328 - Tradutor Português Brasileiro
 
 ## Como testar alterações localmente
