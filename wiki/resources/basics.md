@@ -1,49 +1,57 @@
 ---
-title: Basics
+title: Básico
 sidebar_position: 1
-description: Basic resources
+description: Recursos Básicos
 ---
 
-# The Basics
+# O Básico
 
-## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## **Termos de Serviço do Discord**
 
-## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
-__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+> **Descrição:** Os Termos de Serviço do Discord são uma política com a qual você deve concordar ao usar sua plataforma.   <br/>
+Inclui informações que vão desde os direitos de propriedade intelectual até o encerramento da conta.   <br/>
+**Link:** [Termos de Serviço](https://dis.gd/terms)
 
-## **Discord Community Guidelines**
-> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
-It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-__Link:__ [Community Guidelines](https://dis.gd/guidelines)
+## **Política de Privacidade do Discord**
+> __Descrição:__ Política de privacidade do Discord em relação às informações dos usuários.  <br/>
+__Link:__ [Polídica de Privacidade](https://discord.com/privacy)
 
-## **Discord Blog**
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-__Link:__ [Discord Blog](https://discord.com/blog)
- 
-## **Discord Subreddit**
-> __Description:__ The unofficial Discord Subreddit.   <br/>
-__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+## **Diretrizes da Comunidade do Discord**
+> __Descrição:__ As Diretrizes da Comunidade do Discord esclarecem restrições e limitações em sua plataforma.   <br/>
+Isso garante que todos tenham uma experiência positiva e que os usuários ajam de maneira disciplinada e bem comportada.   <br/>
+__Link:__ [Diretrizes da Comunidade](https://dis.gd/guidelines)
 
-## **Discord Twitter Page**
-> __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+## **Blog do Discord**
 
-## **Discord Youtube Page**
-> __Description:__  The official Discord page on Youtube.   <br/>
-__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+> **Descrição:** O Blog do Discord apresenta anúncios, atualizações, tutoriais e recursos; tudo relacionado ao Discord.   <br/>
+**Link:** [Blog do Discord](https://discord.com/blog)
 
-## **Discord Help Center**
-> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
-__Link:__ [Discord Help Center](https://support.discord.com)
+## **Subreddit do Discord**
 
-## **Discord Safety Center**
-> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-__Link:__ [Discord Safety Center](https://discord.com/safety)
+> **Descrição:** O subreddit não oficial do Discord.   <br/>
+**Link:** [Subreddit do Discord](https://www.reddit.com/r/discordapp/)
 
-## **Client Downloads**
-> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discord.com/download)
+## **Página no Twitter do Discord**
+
+> **Descrição:** A página oficial do Discord no Twitter.   <br/>
+**Link:** [Página no Twitter](https://twitter.com/discord)
+
+## **Canal no YouTube do Discord**
+
+> **Descrição:**  A página oficial do Discord no YouTube.   <br/>
+**Link:** [Canal no YouTube](https://www.youtube.com/c/discord)
+
+## **Central de Ajuda do Discord**
+
+> **Descrição:** Uma página oficial do Discord cheia de artigos de suporte úteis sobre todos os tópicos.   <br/>
+**Link:** [Central de Ajuda do Discord](https://support.discord.com)
+
+## **Centro de segurança do Discord**
+
+> **Descrição:** Uma página que fornece informações sobre privacidade na Internet e informações para pais e educadores sobre como proteger a si mesmos/a seus filhos online.  <br/>
+**Link:** [Centro de segurança do Discord](https://discord.com/safety)
+
+## **Downloads de Client**
+
+> **Descrição:** Todos os clients oficiais do Discord para download. (Baixe o Discord!)   <br/>
+**Link:** [Clients do Discord](https://discord.com/download)

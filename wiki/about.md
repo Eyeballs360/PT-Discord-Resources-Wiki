@@ -1,40 +1,40 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: Sobre
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Uma lista de toneladas de recursos e utilitários úteis para todos os tipos de usuários, desde iniciantes até usuários experientes.
 ---
 
-# About
+# Sobre
 
-## Welcome to Discord Resources Wiki
+## Bem-vindo ao Discord Resources
 
-## So what is this thing?
+## Então, o que é tudo isso?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+O fundador deste projeto, @755792681313108018, estava procurando por uma lista boa e útil de recursos do Discord que abrangessem tópicos de conhecimento básico a utilitários avançados; uma lista que todos os usuários do Discord, de iniciantes a proficientes, achariam útil. Mas não foi possível encontrar tal lista.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+E assim surgiu uma ideia!
+Com a ajuda de alguns amigos que conhecem o Discord, o **Discord Resources Wiki** foi criado. O projeto acabou levando meses de pesquisa, organização e trabalho de design para se tornar o que é hoje, e esperamos que você o ache útil.
 
-## What am I seeing here?
+## O que estou vendo aqui?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+Agrupamos recursos semelhantes em categorias e tópicos comuns, acessíveis à esquerda no desktop ou com o ícone de menu no celular. Cada recurso tem uma breve descrição do que é, seguido do link para onde pode ser acessado e créditos aos criadores.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Este site será atualizado continuamente e com frequência à medida que encontrarmos mais recursos que possam ajudar os usuários do Discord em toda a plataforma!
 
-## Disclaimer
+## Aviso
 
-**We are not affiliated with Discord in any way.**
+**Não somos afiliados ao Discord de forma alguma.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+Este site é um agregado da maioria dos recursos que podemos encontrar e não é uma lista totalmente exaustiva. Não reivindicamos direitos ou propriedade de nenhum dos recursos listados aqui, a menos que seja explicitamente mencionado de outra forma. Todos os créditos aos criadores de recursos estão listados na seção “créditos” de cada link.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+Fazemos o possível para creditar os usuários sempre que possível, no entanto, reconhecemos que alguns recursos podem ter créditos incorretos ou incompletos. Se você encontrar algum desses recursos, entre em contato para que possamos corrigir o problema.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Todas as nossas marcas e ativos são de nossa propriedade e são criados por @192060404501839872. Você não pode usar nossa marca para uso pessoal ou projetos sem nossa permissão explícita.
 
-## Personal Note
+## Nota pessoal
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+Embora seja opcional, gostaríamos muito de receber os créditos se formos úteis para você. Fazemos o possível para pesquisar links, organizar os recursos e então organizá-los no site, e o que você vê é o culminar de meses de nosso esforço.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**Ajude seus amigos, pessoas em comum, membros da comunidade e muito mais compartilhando este projeto com eles também!**
