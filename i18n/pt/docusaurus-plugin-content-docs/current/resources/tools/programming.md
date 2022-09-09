@@ -1,107 +1,107 @@
 ---
-title: Programming Related 
+title: Relacionado a programação
 sidebar_position: 2
-description: Programming related tools
+description: Ferramentas relacionadas a programação
 ---
 
-# Programming Related
+# Relacionado a programação
 
 ### **Autocode**
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
+> __Descrição:__ O Autocode transforma funções JavaScript (Node.js) em serviços da Web escaláveis em um instante, sem necessidade de configuração.   <br/>
 __Link:__ [Autocode](https://autocode.com/)  <br/>
-__Credit:__ @746460957651501196
+__Crédito:__ @746460957651501196
 
 ### **Stack Overflow**
-> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
+> __Descrição:__ Um lugar para encontrar soluções e discutir problemas relacionados à codificação.  <br/>
 __Link:__ [Stack Overflow](https://stackoverflow.com/)
 
 ### **RapidAPI**
-> __Description:__ Find APIs to all purposes.  <br/>
+> __Descrição:__ Encontre APIs para todos os fins.  <br/>
 __Link:__ [RapidAPI](https://rapidapi.com/)
 
 ### **Some Random API**
-> __Description:__ Variety of fun endpoints for devs to use.  <br/>
+> __Descrição:__ Variedade de endpoints divertidos para os desenvolvedores usarem.  <br/>
 __Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
-__Credit:__ @423675224395874314 
+__Crédito:__ @423675224395874314 
 
 ### **Choose A License**
-> __Description:__ Choose a license for your open source project.   <br/>
+> __Descrição:__ Escolha uma licença para seu projeto de código aberto.   <br/>
 __Link:__ [Choose A License](https://choosealicense.com/)
 
 ### **Docker**
-> __Description:__ Simplifies development processes.   <br/>
+> __Descrição:__ Simplifica os processos de desenvolvimento.   <br/>
 __Link:__ [Docker](https://www.docker.com/)
 
 ### **Visual Studio Code**
-> __Description:__ Free and biggest code editing tool. <br/>
+> __Descrição:__ Gratuita e maior ferramenta de edição de código. <br/>
 __Link:__ [Visual studio code](https://code.visualstudio.com)  
 
 ### **Docusaurus**
-> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
+> __Descrição:__ Um gerador de sites otimizado em React. O Docusaurus ajuda você a se mover rapidamente e escrever conteúdo.   <br/>
 __Link:__ [Docusaurus](https://docusaurus.io/)
 
 ### **GitBook**
-> __Description:__ Create docs full of utilities and design options.  <br/>
+> __Descrição:__ Crie documentos cheios de utilitários e opções de design.  <br/>
 __Link:__ [GitBook](https://www.gitbook.com/)
 
 ### **GitHub’s Guides and Documentation**
-> __Description:__ Self explanatory.   <br/>
+> __Descrição:__ Auto explicativo.   <br/>
 __Link(s):__ 
-[Docs](https://docs.github.com/en)   <br/>
-[Guides](https://guides.github.com/)   <br/>
-[Community Help](https://github.community/)
+[Documentos](https://docs.github.com/en)   <br/>
+[Guias](https://guides.github.com/)   <br/>
+[Ajuda da comunidade](https://github.community/)
 
 ### **Github Education Pack**
-> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
+> __Descrição:__ Ferramentas de desenvolvedor gratuitas fornecidas pelo Github Education Pack   <br/>
 __Link:__ [Github Education Pack](https://education.github.com/)
 
 ### **Public APIs**
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
+> __Descrição:__ APIs públicas é uma lista bem mantida de APIs para usar em seus projetos, onde cada API é categorizada e documentada.   <br/>
 __Link:__ [Public APIs](https://github.com/public-apis/public-apis)
 
 ### **HTTPS Statuses**
-> __Description:__ A list of HTTP status codes.   <br/>
+> __Descrição:__ Uma lista de códigos de status HTTP.   <br/>
 __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 
 ### **Does My Site Need HTTPS?**
-> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
+> __Descrição:__ Uma página informativa explicando a importância do HTTPS. <br/>
 __Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
 
 ### **HTTP Toolkit**
-> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
+> __Descrição:__ Intercepte e visualize todos os seus endpoints de simulação HTTP(S) ou servidores inteiros Reescreva, redirecione ou injete erros.  <br/>
 __Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-__Credit:__ github:@pimterry
+__Crédito:__ github:@pimterry
 
 ### **Markdown Guide**
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
+> __Descrição:__ O Markdown Guide é um guia de referência gratuito e de código aberto que explica como usar o Markdown, a linguagem de marcação simples e fácil de usar que você pode usar para formatar praticamente qualquer documento.   <br/>
 __Link:__ [Markdown Guide](https://www.markdownguide.org/)
 
 ### **Qwerty.dev**
-> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
+> __Descrição:__ Qwerty.dev (anteriormente beautifuldingbats.com) é uma coleção de ferramentas unicode para ajudá-lo a se destacar online.   <br/>
 __Link:__ [Qwerty.dev](https://qwerty.dev/)
 
 ### **replit**
-> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
+> __Descrição:__ Um IDE, compilador e interpretador no navegador com suporte para mais de 50 idiomas.   <br/>
 __Link:__ [replit](https://replit.com/)
 
 ### **Regex101**
-> __Description:__ Build, test, and debug regex.   <br/>
+> __Descrição:__ Construa, teste e depure regex.   <br/>
 __Link:__ [Regex101](https://regex101.com/)
 
 ### **RegExp Generator**
-> __Description:__ Unicode range RegExp generator.   <br/>
+> __Descrição:__ Gerador RegEx de intervalo Unicode.   <br/>
 __Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
 ### **Regex Crossword**
-> __Description:__ Learn regex through puzzles and challenges.   <br/>
+> __Descrição:__ Aprenda regex através de quebra-cabeças e desafios.   <br/>
 __Link:__ [Regex Crossword](https://regexcrossword.com/)
 
 ### **Guide(s) to contributing on Open Source Software**
-> __Description:__ A list of various resources to help OSS contributors. <br/>
+> __Descrição:__ Uma lista de vários recursos para ajudar os contribuidores de OSS. <br/>
 __Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-__Credit:__ @github:freeCodeCamp
+__Crédito:__ @github:freeCodeCamp
 
 ### **Big List of Nasty Strings**
-> __Description:__ A list of strings to help test for edge cases <br/>
+> __Descrição:__ Uma lista de strings para ajudar a testar os casos extremos. <br/>
 __Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-__Credit:__ @github:minimaxir
+__Crédito:__ @github:minimaxir
