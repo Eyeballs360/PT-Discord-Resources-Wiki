@@ -1,29 +1,28 @@
 ---
-title: Phishing Related 
+title: Relacionado a phishing
 sidebar_position: 4
-description: Phishing and Security tools
+description: Ferramentas de phishing e segurança
 ---
 
-# Phishing Related
+# Relacionado a phishing
 
-### **Discord Nitro Scams**
-> __Description:__ This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
+### **Golpes do Discord Nitro**
+> __Descrição:__ Este site **seguro e protegido** (*não é um golpe*) compara presentes reais do Discord Nitro a golpes. Cuidado!   <br/>
 __Link:__ [Discord Nitro Information](https://dicsord.gq/)
 
 ### **Virus Total**
-> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
+> __Descrição:__ O Virus total analisa arquivos e URLs suspeitos para detectar tipos de malware.   <br/>
 __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+> __Descrição:__ ClearURLs é um complemento baseado na nova tecnologia WebExtensions e removerá automaticamente elementos de rastreamento de URLs para ajudar a proteger sua privacidade.  <br/>
 __Link(s):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Credit:__ @github:KevinRoebert
+__Crédito:__ @github:KevinRoebert
 
-
-### **Gits of Scam Links**
-> __Description:__ GitHub repositories full of scam links.   <br/>
+### **Gits de links fraudulentos**
+> __Descrição:__ Repositórios do GitHub cheios de links fraudulentos.   <br/>
 __Link(s):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
@@ -33,12 +32,12 @@ __Link(s):__
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### **Database full of malicious links**
-> __Description:__ Self explanatory. 🔢   <br/>
+### **Banco de dados cheio de links maliciosos**
+> __Descrição:__ Auto explicativo. 🔢   <br/>
 __Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
-### **Phishing Recognizing Tools**
-> __Description:__ Many tools to help you recognize phishing and compromised sites.  <br/>
+### **Ferramentas de reconhecimento de phishing**
+> __Descrição:__ Muitas ferramentas para ajudá-lo a reconhecer phishing e sites comprometidos.  <br/>
 __Link(s):__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
@@ -54,30 +53,30 @@ __Link(s):__ <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ### Phishing APIs 
-> __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
+> __Descrição:__ São APIs e ferramentas para lidar com tentativas de phishing.   <br/>
 __Link(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
-[Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
+[Hyperphish](https://api.hyperphish.com/docs) (crédito: @297045071457681409)   <br/>
 [Phish Report](https://phish.report/)   <br/>
-[SinkingYachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
-[Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
-[Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
+[SinkingYachts](https://phish.sinking.yachts/docs) (crédito: @204414611578028034)  <br/>
+[Anti - Fish API](https://anti-fish.bitflow.dev/) (crédito: @218508002255306752)   <br/>
+[Spoopy Detector](https://spoopy.oceanlord.me/) (crédito: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
 [Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
 [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
 [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
-[Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
+[Azrael Phish API](https://phish.azrael.gg/) (crédito: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ### **Phisherman** 
-> __Description:__   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
+> __Descrição:__   <br/>
+Phisherman é um banco de dados centralizado de links de phishing e scam. Ele foi projetado para uso com bots Discord, permitindo que eles utilizem a API Phisherman para verificar URLs com o banco de dados Phisherman.   <br/>
 __Link(s):__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
 ### **The Vaccinator**
-> __Description:__ A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-__Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
+> __Descrição:__ Uma ferramenta para detectar e neutralizar ladrões de token do Discord, excluindo seu webhook interno do Discord. <br/>
+__Note:__ Esta ferramenta **não** é um antivírus. É apenas um utilitário que pode ajudar a impedir que os golpistas obtenham os dados de outras pessoas. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
-__Credit:__ The Vaccinator Team (contact: @204414611578028034)
+__Crédito:__ The Vaccinator Team (contact: @204414611578028034)
