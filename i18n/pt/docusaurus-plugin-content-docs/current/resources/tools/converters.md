@@ -12,7 +12,7 @@ O resultado será um carimbo de data/hora dinâmico que é exibido de forma dife
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
 __Crédito:__ @140360880079503362
 
-### **Snow-Stamp (Snowflake to Timestamp Converter)** 
+### **Snow-Stamp (Snowflake para Conversor de carimbo de data/hora)** 
 > __Descriçãon:__ Converte o floco de neve de um usuário no carimbo de data/hora em que a conta foi criada.   <br/>
 __Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
 __Crédito:__ @86913608335773696
@@ -37,7 +37,7 @@ __Link:__ [Epoch Converter](https://www.epochconverter.com/)
 > __Descrição:__ Decodifica um carimbo de data/hora Unix em um formato MM/DD/AAAA padrão.   <br/>
 __Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
-## File Converters 
+## Conversores de arquivo
 
 ### **EzGif**
 > __Descrição:__ EzGif é uma ferramenta online cheia de utilitários relacionados à mídia.  <br/>
