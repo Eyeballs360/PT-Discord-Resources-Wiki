@@ -79,4 +79,4 @@ __Link(s):__   <br/>
 > __Descrição:__ Uma ferramenta para detectar e neutralizar ladrões de token do Discord, excluindo seu webhook interno do Discord. <br/>
 __Note:__ Esta ferramenta **não** é um antivírus. É apenas um utilitário que pode ajudar a impedir que os golpistas obtenham os dados de outras pessoas. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
-__Crédito:__ The Vaccinator Team (contact: @204414611578028034)
+__Crédito:__ The Vaccinator Team (contato: @204414611578028034)
