@@ -1,216 +1,216 @@
 ---
-title: Discord Related
+title: Relacionado ao Discord
 sidebar_position: 1
-description: Discord related tools
+description: Ferramentas relacionadas ao Discord
 ---
 
-# Discord Related
+# Relacionado ao Discord
 
 ### **Alternatives to MEE6**
-> __Description:__ A list of Discord bots that can be used in place of MEE6.   <br/>
+> __Descrição:__ Uma lista de robôs para Discord que podem ser usados no lugar do MEE6.   <br/>
 __Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
-__Credit:__ @99787644430475264
+__Crédito:__ @99787644430475264
 
 ### **All Discord Permissions**
-> __Description:__ A list of all the permissions available for users.   <br/>
+> __Descrição:__ Uma lista de todas as permissões disponíveis para usuários.   <br/>
 __Link:__ [All Discord Permissions](https://discordapi.com/permissions)
 
 ### **Discord Tools**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
+> __Descrição:__ Uma coleção de ferramentas do Discord para usuários com poder analisar suas guildas, conseguir informações snowflakes, ou até mesmo ver o status atual do Discord. Obter o número de servidores que sua conta está, ver quantos servidores você possui, modera, e são parceiros, e mostra uma lista de todos os servidores nas categorias acima além de uma lista de todos os servidores.   <br/>
 __Link:__ [Discord Tools](https://discordtools.io/)   <br/>
-__Credit:__ @276544649148235776
+__Crédito:__ @276544649148235776
 
 ### **Discord Toolbox**
-> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup.   <br/>
+> __Descrição:__ Ferramentas para o Discord como atualizações nos status do Discord, informações de experimentos e busca de servidores/snowflakes.   <br/>
 __Link:__ [Discord Toolbox](https://distools.app/)   <br/>
-__Credit:__ @386861188891279362
+__Crédito:__ @386861188891279362
 
 ### **Discord Lookup**
-> __Description:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
+> __Descrição:__ Ferramenta fácil de ser usada para procurar usuários, guildas, convites e conseguir informação sobre sua lista de servidores com estatísticas, implementação de experimentos para servidores, funcionalidades e visualização de permissões.  <br/>
 __Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
-__Credit:__ @231091710195662848
+__Crédito:__ @231091710195662848
 
 ### **Discord Data Package Explorer**
-> __Description:__ Explore your Discord data easily.   <br/>
+> __Descrição:__ Explore seus dados do Discord facilmente.   <br/>
 __Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ @github:Androz2091
+__Crédito:__ @github:Androz2091
 
 ### **Discord Simple Avatar Maker**
-> __Description:__ A site to make simple Discord avatars.   <br/>
+> __Descrição:__ Um site para fazer avatares simples para o Discord.   <br/>
 __Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
-__Credit:__ @github:christian-reichart
+__Crédito:__ @github:christian-reichart
 
 ### **Discord Emoji Downloader**
-> __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server.   <br/>
+> __Descrição:__ Essa pequena ferramenta irá permitir você baixar um arquivo ZIP com todos os emjois de um servidor do Discord.   <br/>
 __Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
-__Credit:__ @152164749868662784
+__Crédito:__ @152164749868662784
 
 ### **Discord Friends Graph Maker**
-> __Description:__ Make a graph out of your friends and their relations.  <br/>
+> __Descrição:__ Faz um gráfico de seus amigos e suas relações.  <br/>
 __Link:__ [Discord Friends Graph Maker](https://github.com/Maanex/discord-friends-graph)  <br/>
-__Credit:__ @137258778092503042
+__Crédito:__ @137258778092503042
 
 ### **Discord Servers Comparations**
-> __Description:__ Compare stats between Discord servers.  <br/>
+> __Descrição:__ Compare estatísticas entre servidores do Dicord.  <br/>
 __Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
-__Credit:__ @152164749868662784
+__Crédito:__ @152164749868662784
 
 ### **Slash Commands GUI**
-> __Description:__ Graphical User Interface to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS.  <br/>
+> __Descrição:__ Uma Interface Gráfica do Usuário para explorar Comandos Slash de seu bot, construído com Vue 3 e TailwindCSS.  <br/>
 __Link:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
-__Credit:__ @422820341791064085
+__Crédito:__ @422820341791064085
 
 ### **Discord Server Card Generator**
-> __Description:__ Generate a server card you can copy for your email signatures.   <br/>
+> __Descrição:__ Gera um cartão para o servidor que você consegue copiar para suas assinaturas de email.   <br/>
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Credit:__ @github:geisterfurz007
+__Crédito:__ @github:geisterfurz007
 
 ### **Discord Bug Report Command Generator**
-> __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
+> __Descrição:__ Uma ferramenta fácil e rápida para todo qualquer tipo de relátorio de erro. Contém geração de relátorio, consigo/não consigo reproduzir, editar relatórios, anexar e destacar, e aprovar, negar, e revogar relatórios de erros.   <br/>
 __Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-__Credit:__  @209769851651227648
+__Crédito:__  @209769851651227648
 
 ### **Discord Flags**
-> __Description:__ A document full with all Discord flags and their meanings.   <br/>
+> __Descrição:__ Um documento cheio com todas as bandeiras do Discord e seus significados.   <br/>
 __Link:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
-__Credit:__ @96269247411400704
+__Crédito:__ @96269247411400704
 
 ### **Dragory's Avatar Preview**
-> __Description:__ This is an avatar preview tool used to optimise your avatar between both light and dark themes.   <br/>
+> __Descrição:__ Essa é uma ferramenta para pré-visualizar avatares usada para otimizar seu avatar entre tanto o tema claro e escuro.   <br/>
 __Link:__ [Dragory’s Avatar Preview](https://dragory.net/avatar-preview/)   <br/>
-__Credit:__  @106391128718245888
+__Crédito:__  @106391128718245888
 
 ### **Dragory's Role Colour Preview**
-> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes.   <br/>
+> __Descrição:__ Essa é uma ferramenta para pré-visualizar cores de cargo usada para otimizar suas cores de cargo entre tanto o tema claro e escuro.   <br/>
 __Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/)   <br/>
-__Credit:__  @106391128718245888
+__Crédito:__  @106391128718245888
 
 ### **Disgradient**
-> __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more.   <br/>
+> __Descrição:__ Uma ferramenta fácil de ser usada para ajudar a criar um gradiante para suas pastas do Discord, cargos e muito mais.   <br/>
 __Link:__ [Disgradient](https://disgradient.vanished.rocks/)   <br/>
-__Credit:__ @267025484028706816
+__Crédito:__ @267025484028706816
 
 ### **DeepResearch**
-> __Description:__ Discord status that provides visualisations, analytics, and tools for chat-based communities.   <br/>
+> __Descrição:__ Status do Discord que fornece visualizações, analíticas, e ferramentas para comunidades baseadas em bate-papo.   <br/>
 __Link:__ [DeepResearch](https://www.altr.fyi/)
 
 ### **Experiments Rollouts**
-> __Description:__ Shows the current discord experiments and their rollout percentage.   <br/>
+> __Descrição:__ Mostra os experimentos atuais do Discord e sua porcentagem de implantação.   <br/>
 __Link:__ [Experiments Rollouts](https://rollouts.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+__Crédito:__ @190916650143318016
 
 ### **Find a Guild**
-> __Description:__ Find a guild using it’s ID, through replacing ‘GUILD_ID’ (provided it has widgets on).   <br/>
+> __Descrição:__ Acha um servidor usando seu ID, através da substituição do ‘GUILD_ID’ (desde que tenha os widgets ligados).   <br/>
 __Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
 
 ### **Find Guild Features**
-> __Description:__ Check the features of a guild via an instant invite code.   <br/>
+> __Descrição:__ Verifica os recursos de um servidor através do código do convite instantâneo.   <br/>
 __Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
 
 ### **Jagrosh's GitHub -> Discord Webhook Guide**
-> __Description:__ A guide to integrate your GitHub projects to a Discord channel.    <br/>
+> __Descrição:__ Um guia para integrar seus projetos do GitHub a um canal do Discord.    <br/>
 __Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
-__Credit:__ @113156185389092864
+__Crédito:__ @113156185389092864
 
 
 ### **Mozzy's Log Sorter** 
-> __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
+> __Descrição:__ Um analisador de registros fácil de usar que suporta vários registros de robôs que lhe permite pegar os IDs do usuário a partir de grandes seções de registros.   <br/>
 __Link:__ [Mozzy’s Log Sorter](https://logsorter.net/)   <br/>
-__Credit:__ @99182302885588992
+__Crédito:__ @99182302885588992
 
 ### **Webence**
-> __Description:__ A tool that allows you to embed your Discord profile in an iframe.   <br/>
+> __Descrição:__ Uma ferramenta que lhe permite incorporar seu perfil do Discord em um iframe.   <br/>
 __Link:__ [Webence](https://panleyent.com/webence/)   <br/>
-__Credit:__  @249287049482338305
+__Crédito:__  @249287049482338305
 
 ### **Discordstatus**
-> __Description:__ A tool to create a unique status/about me page using colores squares.  <br/>
+> __Descrição:__ Uma ferramenta para criar uma página única do status/sobre mim utilizando quadrados coloridos.  <br/>
 __Link:__ [Discordstatus](https://warze.org/discordstatus)  <br/>
-__Credit:__ @345103284463206400
+__Crédito:__ @345103284463206400
 
 ### **PreMiD**
-> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
+> __Descrição:__ PreMiD é uma utilidade simples, configurável que permite mostrar o que você está fazendo na web no seu "jogando agora status" do Discord.    <br/>
 __Link:__ [PreMiD](https://premid.app/)
 
 ### **Powercord**
-> __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
+> __Descrição:__ Powercord é uma modificação do cliente leve focado na simplicidade e perfomance.   <br/>
 __Link:__ [Powercord](https://powercord.dev/)  <br/>
-[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
+[Powercord é contra o Discord TOS - Leia mais](https://dat.place/client-mods/)
 
 ### **Presence Maker**
-> __Description:__ Create Discord rich presence with this tool.   <br/>
+> __Descrição:__ Crie uma rich presence do Discord com essa ferramenta.   <br/>
 __Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
-__Credit:__ @454847501787463680
+__Crédito:__ @454847501787463680
 
 ### **Rauf's Guild Count**
-> __Description:__ Counts the number of guilds you’re in.   <br/>
+> __Descrição:__ Conta o número de guildas você está.   <br/>
 __Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount)   <br/>
-__Credit:__ @172557961133162496
+__Crédito:__ @172557961133162496
 
 ### **Rauf's Slash Command Generator**
-> __Description:__ An easy to use slash command tool which allows bot developers to create slash commands quickly.  <br/>
+> __Descrição:__ Uma ferramenta de comandos Slash fácil de usar que permite desenvolvedores de robôs criarem comandos slash rapidamente.  <br/>
 __Link:__ [Rauf's Slash Command Generator](https://rauf.wtf/slash)  <br/>
-__Credit:__ @172557961133162496
+__Crédito:__ @172557961133162496
 
 ### **Status**
-> __Description:__ A server that has a collection of announcement channels you can follow for many status pages (including Discord, Cloudflare, GitHub, Hypixel & more) so you can be one of the first to know when one of your favourite service(s) have issues.   <br/>
+> __Descrição:__ Um servidor que tem uma coleção de canais de anúncios que você pode seguir para muitas páginas de status (incluindo Discord, Cloudflare, GitHub, Hypixel & mais) para que você possa ser um dos primeiros a saber quando um de seus serviço(s) favoritos há problemas.   <br/>
 __Link(s):__ 
 [Server Invite](https://inv.wtf/statuspages)   <br/>
-__Credit:__ @287698408855044097
+__Crédito:__ @287698408855044097
 
 ### **Sylveon's Ban Appeal Website (self-host)**
-> __Description:__ Sample ban appeals page with OAuth2 integration.   <br/>
+> __Descrição:__ Página simples para apelos de banimentos com integração de OAuth2.   <br/>
 __Link:__ [Sylveon’s Ban Appeal Website](https://github.com/sylveon/discord-ban-appeals)   <br/>
-__Credit:__  @207123748120166400
+__Crédito:__  @207123748120166400
 
 ### **Rauf's Embeds Generator**
-> __Description:__ Generate embeds using this site.   <br/>
+> __Descrição:__ Gere embeds usando este site.   <br/>
 __Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/)   <br/>
-__Credit:__ @172557961133162496
+__Crédito:__ @172557961133162496
 
 ### **Webhooks Creator** 
-> __Description:__ A site to create webhooks with.   <br/>
+> __Descrição:__ Um site para criar webhooks.   <br/>
 __Link:__ [Webhooks Creator](https://webhook.site/)
 
 ### **Google forms -> Discord Webhook**
-> __Description:__ Sends a Google Form response to a Discord channel using webhooks.  <br/>
+> __Descrição:__ Envia uma reposta do Google Form para um canal do Discord utilizando webhooks.  <br/>
 __Link__ [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
-__Credit:__ @87599455892692992
+__Crédito:__ @87599455892692992
 
 ### **Crosslink's Utility Links**
-> __Description:__ Easy to use links to lookup users and domains. Replace "ID" with User ID and "Domain" with the domain name.  <br/>
+> __Descrição:__ Links fáceis de usar para procurar usuários e domínios. Substitue "ID" com o ID do Usuário e "Domain" com o nome do domínio.  <br/>
 __Link(s):__ [User Info](https://crss.link/u/ID) <br/>
 [Domain Info](https://crss.link/d/Domain)  <br/>
-__Credit:__ @249287049482338305
+__Crédito:__ @249287049482338305
 
 ### **Merlin's Embed Links**
-> __Description:__ Easy to use links to embed users, servers, and invites.<br/>
+> __Descrição:__ Links fáceis de usar para fazer embeds de usuários, servidores e convites.<br/>
 __Link:__ [Embeddable Links](https://url.wtf) <br/>
-__Credit:__ @386861188891279362
+__Crédito:__ @386861188891279362
 
 ### **Scratch For Discord**
-> __Description:__ Make a Discord bot using blocks with no coding required.  <br/>
+> __Descrição:__ Faz um robô para o Discord utilizando blocos com nenhum código necessário.  <br/>
 __Link:__ [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
-__Credit:__ @422820341791064085
+__Crédito:__ @422820341791064085
 
 ### **Zeppelin in Docker**
-> __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
+> __Descrição:__ Instalação fácil para hospedar o robô de moderação Zeppelin no Docker.   <br/>
 __Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
-__Credit:__ @255834596766253057
+__Crédito:__ @255834596766253057
 
 ### **ANSI Code Block Guide**
-> __Description:__ A quick breakdown of how to use ANSI color codes to add color to your code blocks. <br/>
+> __Descrição:__ Um detalhamento rápido de como usar códigos de cores ANSI para adicionar cor para seus blocos de código. <br/>
 __Link(s):__  <br/>
 [ANSI Code Block Guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
 [ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
-__Credit:__ @github:kkrypt0nn @github:fnky
+__Crédito:__ @github:kkrypt0nn @github:fnky
 
 ### **Simple Discord Cache Cleaner**
-> __Description:__ A simple to the point Discord cache manager written in java.   <br/>
+> __Descrição:__ Um simples gerenciador de cache para o Discord escrito em java.   <br/>
 __Link:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
-__Credit:__ @272037078919938058
+__Crédito:__ @272037078919938058
 
 ### **Discord Role Icon Creator**
-> __Description:__ Website that allows users to make simple looking role icons for their servers.   <br/>
+> __Descrição:__ Website que permite usuários fazerem ícones simples para cargos para seus servidores.	   <br/>
 __Link:__ [Discord Icon](https://discordicon.com)   <br/>
-__Credit:__ @github:enzostvs
+__Crédito:__ @github:enzostvs
