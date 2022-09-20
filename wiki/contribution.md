@@ -41,6 +41,8 @@ Queremos agradecer:<br/>
 @421991668556759042 - Criador do [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources)
 @427146305651998721 - Mantenedor
 
+## Equipe de Tradução para o Português Brasileiro
+@504717946124369937 @441033985238499328 @451467812641177611
 ## Como testar as alterações localmente
 
 Tem um ótimo PR em andamento, mas não sabe como está ficando? Sem problemas!<br/>
