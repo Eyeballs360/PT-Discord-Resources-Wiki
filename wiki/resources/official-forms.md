@@ -1,24 +1,27 @@
 ---
-title: Official Forms
+title: Formulários Oficiais
 sidebar_position: 3
-description: Official forms from discord.
+description: Formulários Oficiais do Discord.
 ---
 
-# Official Forms
+# Formulários Oficiais
 
-## **Report Form** 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
-__Link:__ [Discord Report Form](https://dis.gd/report)
+## **Formulário de Relatório**
 
-## **Support Form** 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
-__Link:__  [Discord Support Form](https://dis.gd/contact)
+> **Descrição:** Relate um problema à equipe de Confiança e Segurança do Discord.   <br/>
+**Link:** [Formulário de Relatório do Discord](https://dis.gd/report)
 
-## **Feedback** 
-> __Description:__ Submit feedback to the Discord team.   <br/>
-__Link:__  [Discord Feedback Form](https://dis.gd/feedback)
+## **Formulário de Suporte**
 
+> **Descrição:** Precisa de ajuda? Envie um formulário para a equipe do Discord.   <br/>
+**Link:** [Formulário de Suporte do Discord](https://dis.gd/contact)
 
-## **Discord Trust & Safety** 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
-__Link:__ [Discord TnS](https://dis.gd/request)
+## **Feedback**
+
+> **Descrição:** Envie um feedback para a equipe do Discord.   <br/>
+**Link:**  [Formulário de Feedback do Discord](https://dis.gd/feedback)
+
+## **Confiança e Segurança do Discord**
+
+> **Descrição:** Envie um formulário para a equipe de Confiança e Segurança do Discord.   <br/>
+**Link:** [Confiança e Segurança do Discord](https://dis.gd/request)

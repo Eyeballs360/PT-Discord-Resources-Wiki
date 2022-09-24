@@ -1,65 +1,84 @@
 ---
-title: Information & Lists
+title: Informações e Listas
 sidebar_position: 1
-description: Bot informations and lists
+description: Informações e listas de bots
 ---
 
-# Information & Lists
+# Informações e Listas
 
-## **Unofficial Discord API Docs**
-> __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
-__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
+## **Documentos não oficiais da API do Discord**
 
-## **Largest Discord Bots**
-> __Description:__ An easy-to-read list of the top 25 Discord bots by server count.   <br/>
-__Link:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
-__Credit:__ @190916650143318016
+> **Descrição:** Documentação não oficial para APIs do Discord não documentadas. Também contém um esboço da infraestrutura do Discord. <br/>
+**Link:** [Documentos não oficiais da API do Discord](https://luna.gitlab.io/discord-unofficial-docs/) <br/>
+**Crédito:** @github:lun-4
 
-## **Largest Discord Bots (extended version)**
-> __Description:__ A haste link with the 600 biggest bots on Discord, including growth stats.  <br/>
-__Links:__ Get the haste ID from [here](https://unbelievaboat.com/api/botlist), then paste it [here](https://haste.unbelievaboat.com/ID) instead of "ID".  <br/>
-__Credit:__ @261674810914897931
+## **Os maiores bots do Discord**
 
-## **All Official Discord Bots**
-> __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
-__Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
-__Credit:__ @712626099141476383
+> **Descrição:** Uma lista fácil de ler dos 25 principais bots do Discord por número de servidores. <br/>
+**Link:** [Os maiores bots do Discord](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0) <br/>
+**Crédito:** @190916650143318016
 
-## **List of Libraries**
-> __Description:__ List of all Discord API libraries and their features.   <br/>
-__Link:__ [List Of Libraries](https://libs.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+## **Os maiores bots do Discord (versão estendida)**
+
+> **Descrição:** Um link rápido com os 600 maiores bots do Discord, incluindo estatísticas de crescimento. <br/>
+**Links:** obtenha o ID [aqui](https://unbelievaboat.com/api/botlist) e cole-o [aqui](https://haste.unbelievaboat.com/ID) em vez de "ID". <br/>
+**Crédito:** @261674810914897931
+
+## **Todos os bots oficiais do Discord**
+
+> **Descrição:** Uma lista que contém todos os bots que foram feitos oficialmente pelo Discord. <br/>
+**Link:** [Todos os bots oficiais](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327) <br/>
+**Crédito:** @712626099141476383
+
+## **Lista de Bibliotecas**
+
+> **Descrição:** Lista de todas as bibliotecas da API Discord e seus recursos. <br/>
+**Link:** [Lista de bibliotecas](https://libs.advaith.io/) <br/>
+**Crédito:** @190916650143318016
 
 ## **Discord API Libs**
-> __Description:__ A list of all the Discord API libraries.  <br/>
-__Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
-__Credit:__ @460612586061430806
 
-### **Library Rest & WS Coverage Comparisons**
-> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
-(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
-__Link:__ [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html) 
+> **Descrição:** Uma lista de todas as bibliotecas da API do Discord. <br/>
+**Link:** [Discord API Libs](https://github.com/apacheli/discord-api-libs) <br/>
+**Crédito:** @460612586061430806
 
-## **Discord Gateway Intents Explainer**
-> __Description:__ Info about Discord bot intents.  <br/>
-__Link:__ [Discord Gateway Intents Explainer](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
-__Credit:__ @190916650143318016
+### **Comparações de biblioteca REST e cobertura de WS**
 
-## **Best Bot Practices**
-> __Description:__ Best practices for Discord bots.   <br/>
-__Link:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
-__Credit:__ @66237334693085184
+> **Descrição:** Uma comparação gigante de recursos para o que várias bibliotecas de API de Discord fazem tanto no REST quanto no WS. <br/>
+(verifique também [Discord API unofficial](https://discordapi.com/unofficial/) para documentos e bibliotecas) <br/>
+**Link:** [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html)
+
+## **Explicação de intents de gateway do Discord**
+
+> **Descrição:** Informações sobre as intents de bot do Discord. <br/>
+**Link:** [Discord Gateway Intents Explainer](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f) <br/>
+**Crédito:** @190916650143318016
+
+## **Melhores práticas de bot**
+
+> **Descrição:** Práticas recomendadas para bots do Discord. <br/>
+**Link:** [Melhores práticas de bot do Discord](https://github.com/meew0/discord-bot-best-practices) <br/>
+**Crédito:** @66237334693085184
 
 ## **Discord Bots**
-> __Description:__ A list of publicly available Discord bots.   <br/>
-__Link:__ [Discord Bots](https://discord.bots.gg/)   <br/>
-__Credit:__ Discord Bots’ site team @66237334693085184
 
-## **List of Bot Lists** (BotBlocks)
-> __Description:__ A centralized list of Discord bot lists.   <br/>
-__Link:__ [Bots Lists List](https://botblock.org/lists) 
+> **Descrição:** Uma lista de bots do Discord disponíveis publicamente. <br/>
+**Link:** [Discord Bots](https://discord.bots.gg/) <br/>
+**Crédito:** Equipe do site do Discord Bots @66237334693085184
+
+## **Lista de listas de bot** (BotBlocks)
+
+> **Descrição:** Uma lista centralizada de listas de bots do Discord. <br/>
+**Link:** [Lista de listas de bots](https://botblock.org/lists)
 
 ## **DStat**
-> __Description:__ Get statistics about your Discord bot.   <br/>
-__Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
-__Credit:__ @255834596766253057
+
+> **Descrição:** Obtenha estatísticas sobre seu bot Discord. <br/>
+**Link:** [DStat](https://github.com/benricheson101/dstat) <br/>
+**Crédito:** @255834596766253057
+
+### **Guia de um idiota**
+
+> **Descrição:** O guia não oficial para iniciantes do Discord.js, escrito por idiotas para iniciantes.<br/>
+**Link:** [Guia de um idiota](https://anidiots.guide/) <br/>
+**Crédito:** @github:AnIdiotsGuide

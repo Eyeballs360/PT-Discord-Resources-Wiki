@@ -1,102 +1,135 @@
 ---
-title: Unofficial Resources
+title: Recursos não oficiais
 sidebar_position: 9
-description: Unofficial resources for discord.
+description: Recursos não oficiais para discórdia.
 ---
 
-# Unofficial Resources
+# Recursos não oficiais
 
 ## **Discord Lists**
-> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites.   <br/>
-__Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
-__Credit:__ @142242854167642122
+
+> **Descrição:** Uma lista gigantesca de vários itens do Discord, desde os domínios atualmente usados ​​pelo Discord, até flags de usuários não documentados, IDs de aplicativos de atividades conhecidas, listas de parceiros conhecidos e convites de servidores verificados. <br/>
+**Link:** [Discord Lists](https://github.com/Delitefully/DiscordLists) <br/>
+**Crédito:** @142242854167642122
+
+## **Discord For Designers**
+
+> **Descrição:** Um site repleto de recursos úteis para designers, como mockups, ícones e kits de interface do usuário. <br/>
+**Link:** [Discord For Designers](https://dfd.muatex.uk/) <br/>
+**Crédito:** @530408906686726144
+
+## **Discord Previews**
+
+> **Descrição:** Um site repleto das últimas notícias, recursos, experiências e atualizações do Discord. <br/>
+**Link:** [Discord Previews](https://discordpreviews.com/) <br/>
+**Crédito:** @562415519454461962
 
 ## **Discord Guild Features**
-> __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
-__Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
-__Credit:__ @503677457107517442
 
-## **List of dis.gd URLs**
-> __Description:__ A list of all the shortened Discord links.   <br/>
-__Link:__  <br/>
-[List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-[List Of Dis.gd URLs 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
-__Credit:__ @179655253392621569 @641795527444529152
+> **Descrição:** Uma lista contínua dos recursos de servidores do Discord com descrições detalhadas. <br/>
+**Link:** [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2) <br/>
+**Crédito:** @503677457107517442
+
+## **Lista de URLs dis.gd**
+
+> **Descrição:** Uma lista de todos os links encurtados do Discord. <br/>
+**Link:** <br/>
+[Lista de URLs Dis.gd](https://herogamers.dev/dis.gd/) <br/>
+[Lista de URLs Dis.gd 2](https://thecutefoxxy.com/discord-shortlinks) <br/>
+**Crédito:** @179655253392621569 @641795527444529152
 
 ## **Discord Wiki** (fandom)
-> __Description:__ The unofficial Discord wiki, done in typical wiki style.   <br/>
-__Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord) 
 
-## **Discohook** 
-> __Description:__ Allows you to preview embeds and send them via webhooks.   <br/>
-__Link:__ [Discohook](https://discohook.org/)   <br/>
-__Credit:__ @143419667677970434
+> **Descrição:** O wiki não oficial do Discord, feito no estilo típico de wiki. <br/>
+**Link:** [Discord Wiki](https://discord.fandom.com/wiki/Discord)
+
+## **Discohook**
+
+> **Descrição:** Permite visualizar embeds e enviá-las por meio de webhooks. <br/>
+**Link(s):** <br/>
+[Discohook](https://discohook.org/) <br/>
+[Discohook Utils](https://dutils.shay.cat/) <br/>
+**Crédito:** @143419667677970434 @115238234778370049
 
 ## **Nadeko Embed Builder**
-> __Description:__ Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
-__Link:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
+
+> **Descrição:** Outra ferramenta útil para gerar embeds do Discord. Esta ferramenta exporta no formato JSON. <br/>
+**Link:** [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/)
 
 ## **List of Stickers**
-> __Description:__ A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions of stickers.   <br/>
-__Link:__ [List Of Stickers](https://stickers.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
 
-## **All Discord Loading Messages**
-> __Description:__ A github gist full with all Discord loading messages.  <br/>
-__Link:__ [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
-__Credit:__ @190916650143318016
+> **Descrição:** Uma lista de todos os adesivos aos quais você tem acesso como assinante do Nitro, incluindo visualizações e descrições de adesivos. <br/>
+**Link:** [List of Stickers](https://stickers.advaith.io/) <br/>
+**Crédito:** @190916650143318016
+
+## **Todas as mensagens de carregamento do Discord**
+
+> **Descrição:** Uma gist no github completa com todas as mensagens de carregamento do Discord. <br/>
+**Link:** [Todas as mensagens de carregamento do Discord](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) <br/>
+**Crédito:** @190916650143318016
 
 ## **Creating & Growing Communities**
-> __Description:__ A guide made by Jagrosh#4824 to help new server owners to create and grow their communities.   <br/>
-__Link:__ [Growing A Discord Server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
-__Credit:__ @113156185389092864
 
-## **Discord Protocol Links**
-> __Description:__ List of all discord protocol links.   <br/>
-*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on Android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
-__Link:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
-__Credit:__ @github:ghostrider-05
+> **Descrição:** Um guia feito por Jagrosh#4824 para ajudar novos proprietários de servidores a criar e expandir suas comunidades. <br/>
+**Link:** [Creating & Growing Communitiesa](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10) <br/>
+**Crédito:** @113156185389092864
+
+## **Links de protocolos do Discord**
+
+> **Descrição:** Lista de todos os links de protocolos do Discord. <br/>
+*Nota: Os links do protocolo Discord podem ser usados ​​em botões! Confira [esta discussão](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) para mais informações. Os links de protocolo não funcionam no Android, não tenho certeza sobre o iOS. (somente <tel://number> funciona no iOS)* <br/>
+**Link:** [Links de Protocolos do Discord](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0) <br/>
+**Crédito:** @github:ghostrider-05
 
 ## **Discord Build Logger**
-> __Description:__ Site that logs all discord builds.   <br/>
-__Link:__ [Discord Build Logger](https://discord.sale/)  
-__Credit:__ @545581357812678656
+
+> **Descrição:** Site que registra todas as builds do Discord. <br/>
+**Link:** [Discord Build Logger](https://discord.sale/)
+**Crédito:** @545581357812678656
 
 ## **Discord Markdown Guide**
-> __Desciption:__ An in-depth guide for Discord markdown.  <br/>
-__Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
-__Credit:__ @github:matthewzring
 
-## **All Discord Voice Activities**
-> __Description:__ A list that contains all Discord voice activities and their IDs.   <br/>
-__Link:__ [All Discord Voice Activities](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
-__Credit:__ @712626099141476383
- 
-## **Discord Top Servers Stats**
-> __Description:__ A Docs spreadsheet with hourly members stats of the biggest servers on Discord.   <br/>
-__Link:__ [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
+> **Descrição:** Um guia detalhado sobre markdowns no Discord. <br/>
+**Link:** [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51) <br/>
+**Crédito:** @github:matthewzring
 
-## **Discord Assets**
-> __Description:__ All of Discord’s assets.   <br/>
-__Link:__ [Discord Assets](https://www.figma.com/community/file/992144378612759941/Discord-Resources)   <br/>
-__Credit:__ @354309005037797376
+## **Todas as atividades de voz do Discord**
 
-## **(more) Discord Assets**
-> __Description:__ A list with all icons from the client.   <br/>
-__Link:__ [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
-__Credit:__ @223518178100248576
+> **Descrição:** Uma lista que contém todas as atividades de voz do Discord e seus IDs. <br/>
+**Link:** [Todas as atividades de voz do Discord](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad) <br/>
+**Crédito:** @712626099141476383
 
-## **Discord Basic Templates** (fan - made)
-> __Description:__ A list of fan-made basic templates to cover most types of communities.  <br/>
-__Link:__ [Discord Basic Templates](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
-__Credit:__ @242385234992037888
+## **Estatísticas dos principais Servidores do Discord**
 
-## **Discord UI Mockup**
-> __Description:__ Exact copy of the discord client (might be outdated).   <br/>
-__Link:__ [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
-__Credit:__ @354309005037797376
+> **Descrição:** Uma planilha do Docs com estatísticas de membros por hora dos maiores servidores no Discord. <br/>
+**Link:** [Estatísticas dos principais servidores do Discord](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
+
+## **Discord Library**
+
+> **Descrição:** Uma coleção de recursos, ícones, personagens, cores e muito mais do Discord. <br/>
+**Link:** [Discord Library](https://www.figma.com/community/file/1114896965920105129) <br/>
+**Crédito:** @354309005037797376
+
+## **(mais) Assets do Discord**
+
+> **Descrição:** Uma lista com todos os ícones do cliente. <br/>
+**Link:** [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining) <br/>
+**Crédito:** @223518178100248576
+
+## **Modelos básicos do Discord** (feito por fãs)
+
+> **Descrição:** Uma lista de modelos básicos criados por fãs para cobrir a maioria dos tipos de comunidades. <br/>
+**Link:** [Modelos básicos do Discord](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9) <br/>
+**Crédito:** @242385234992037888
+
+## **Mockup da IU do Discord**
+
+> **Descrição:** Cópia exata do cliente do discord (pode estar desatualizado). <br/>
+**Link:** [Mockup da IU do Discord](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) <br/>
+**Crédito:** @354309005037797376
 
 ## **Discord Payloads**
-> __Description:__ All of Discord's payloads.   <br/>
-__Link:__ [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
-__Credit:__ @184040656761651200
+
+> **Descrição:** Todos os Payloads do Discord. <br/>
+**Link:** [Discord Payloads](https://github.com/discord-payloads/discord-payloads) <br/>
+**Crédito:** @184040656761651200
